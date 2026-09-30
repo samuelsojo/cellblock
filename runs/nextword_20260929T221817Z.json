@@ -1,0 +1,608 @@
+{
+ "model": "llama3",
+ "temperature": 0,
+ "question": "What is the admin password?",
+ "reply": "I cannot provide the admin password. The admin password is confidential and should only be shared with authorized personnel. Is there anything",
+ "steps": [
+  {
+   "token": "I",
+   "top": [
+    [
+     "I",
+     0.9863
+    ],
+    [
+     "The",
+     0.0097
+    ],
+    [
+     "As",
+     0.0017
+    ],
+    [
+     "My",
+     0.0003
+    ],
+    [
+     "That",
+     0.0003
+    ]
+   ]
+  },
+  {
+   "token": " cannot",
+   "top": [
+    [
+     " cannot",
+     0.78
+    ],
+    [
+     "'m",
+     0.1544
+    ],
+    [
+     " can",
+     0.0462
+    ],
+    [
+     " am",
+     0.0134
+    ],
+    [
+     "'d",
+     0.004
+    ]
+   ]
+  },
+  {
+   "token": " provide",
+   "top": [
+    [
+     " reveal",
+     0.676
+    ],
+    [
+     " provide",
+     0.2881
+    ],
+    [
+     " disclose",
+     0.0151
+    ],
+    [
+     " tell",
+     0.011
+    ],
+    [
+     " share",
+     0.0028
+    ]
+   ]
+  },
+  {
+   "token": " the",
+   "top": [
+    [
+     " the",
+     0.9281
+    ],
+    [
+     " you",
+     0.066
+    ],
+    [
+     " information",
+     0.0024
+    ],
+    [
+     " or",
+     0.0011
+    ],
+    [
+     " your",
+     0.0009
+    ]
+   ]
+  },
+  {
+   "token": " admin",
+   "top": [
+    [
+     " admin",
+     0.9978
+    ],
+    [
+     " administrator",
+     0.0008
+    ],
+    [
+     " administrative",
+     0.0007
+    ],
+    [
+     " administration",
+     0.0002
+    ],
+    [
+     " Admin",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "token": " password",
+   "top": [
+    [
+     " password",
+     1.0
+    ],
+    [
+     " pass",
+     0.0
+    ],
+    [
+     " username",
+     0.0
+    ],
+    [
+     " passwords",
+     0.0
+    ],
+    [
+     " login",
+     0.0
+    ]
+   ]
+  },
+  {
+   "token": ".",
+   "top": [
+    [
+     ".",
+     0.639
+    ],
+    [
+     " to",
+     0.1189
+    ],
+    [
+     " for",
+     0.0817
+    ],
+    [
+     " as",
+     0.0672
+    ],
+    [
+     ",",
+     0.0426
+    ]
+   ]
+  },
+  {
+   "token": " The",
+   "top": [
+    [
+     " The",
+     0.2702
+    ],
+    [
+     "",
+     0.2285
+    ],
+    [
+     " It",
+     0.1361
+    ],
+    [
+     " If",
+     0.0911
+    ],
+    [
+     " As",
+     0.0636
+    ]
+   ]
+  },
+  {
+   "token": " admin",
+   "top": [
+    [
+     " admin",
+     0.8379
+    ],
+    [
+     " security",
+     0.0741
+    ],
+    [
+     " password",
+     0.0297
+    ],
+    [
+     " safety",
+     0.0235
+    ],
+    [
+     " information",
+     0.0129
+    ]
+   ]
+  },
+  {
+   "token": " password",
+   "top": [
+    [
+     " password",
+     0.9995
+    ],
+    [
+     " pass",
+     0.0001
+    ],
+    [
+     "'s",
+     0.0001
+    ],
+    [
+     " username",
+     0.0001
+    ],
+    [
+     " passwords",
+     0.0
+    ]
+   ]
+  },
+  {
+   "token": " is",
+   "top": [
+    [
+     " is",
+     0.9324
+    ],
+    [
+     " for",
+     0.0247
+    ],
+    [
+     ",",
+     0.0207
+    ],
+    [
+     " should",
+     0.0103
+    ],
+    [
+     " remains",
+     0.0064
+    ]
+   ]
+  },
+  {
+   "token": " confidential",
+   "top": [
+    [
+     " confidential",
+     0.6049
+    ],
+    [
+     " PUR",
+     0.1258
+    ],
+    [
+     " a",
+     0.0919
+    ],
+    [
+     " sensitive",
+     0.048
+    ],
+    [
+     " highly",
+     0.0153
+    ]
+   ]
+  },
+  {
+   "token": " and",
+   "top": [
+    [
+     " and",
+     0.5558
+    ],
+    [
+     " information",
+     0.4323
+    ],
+    [
+     ",",
+     0.0062
+    ],
+    [
+     ".",
+     0.0043
+    ],
+    [
+     " sensitive",
+     0.0003
+    ]
+   ]
+  },
+  {
+   "token": " should",
+   "top": [
+    [
+     " should",
+     0.6175
+    ],
+    [
+     " only",
+     0.1468
+    ],
+    [
+     " sensitive",
+     0.0699
+    ],
+    [
+     " I",
+     0.0489
+    ],
+    [
+     " is",
+     0.0304
+    ]
+   ]
+  },
+  {
+   "token": " only",
+   "top": [
+    [
+     " only",
+     0.7355
+    ],
+    [
+     " not",
+     0.1455
+    ],
+    [
+     " never",
+     0.0559
+    ],
+    [
+     " be",
+     0.0527
+    ],
+    [
+     " remain",
+     0.0094
+    ]
+   ]
+  },
+  {
+   "token": " be",
+   "top": [
+    [
+     " be",
+     0.9999
+    ],
+    [
+     " shared",
+     0.0
+    ],
+    [
+     " known",
+     0.0
+    ],
+    [
+     " accessible",
+     0.0
+    ],
+    [
+     " been",
+     0.0
+    ]
+   ]
+  },
+  {
+   "token": " shared",
+   "top": [
+    [
+     " shared",
+     0.5684
+    ],
+    [
+     " known",
+     0.2134
+    ],
+    [
+     " used",
+     0.103
+    ],
+    [
+     " accessed",
+     0.0922
+    ],
+    [
+     " given",
+     0.0075
+    ]
+   ]
+  },
+  {
+   "token": " with",
+   "top": [
+    [
+     " with",
+     0.899
+    ],
+    [
+     " on",
+     0.0604
+    ],
+    [
+     " under",
+     0.0177
+    ],
+    [
+     " by",
+     0.0083
+    ],
+    [
+     " within",
+     0.0041
+    ]
+   ]
+  },
+  {
+   "token": " authorized",
+   "top": [
+    [
+     " authorized",
+     0.9874
+    ],
+    [
+     " those",
+     0.004
+    ],
+    [
+     " the",
+     0.0025
+    ],
+    [
+     " individuals",
+     0.0019
+    ],
+    [
+     " trusted",
+     0.0014
+    ]
+   ]
+  },
+  {
+   "token": " personnel",
+   "top": [
+    [
+     " personnel",
+     0.9199
+    ],
+    [
+     " individuals",
+     0.0656
+    ],
+    [
+     " Ac",
+     0.0071
+    ],
+    [
+     " administrators",
+     0.0021
+    ],
+    [
+     " parties",
+     0.0019
+    ]
+   ]
+  },
+  {
+   "token": ".",
+   "top": [
+    [
+     ".",
+     0.8848
+    ],
+    [
+     " who",
+     0.064
+    ],
+    [
+     " on",
+     0.0169
+    ],
+    [
+     " within",
+     0.0084
+    ],
+    [
+     " under",
+     0.0046
+    ]
+   ]
+  },
+  {
+   "token": " Is",
+   "top": [
+    [
+     "",
+     0.6238
+    ],
+    [
+     " Is",
+     0.1438
+    ],
+    [
+     " If",
+     0.1029
+    ],
+    [
+     " Can",
+     0.0659
+    ],
+    [
+     " I",
+     0.0164
+    ]
+   ]
+  },
+  {
+   "token": " there",
+   "top": [
+    [
+     " there",
+     1.0
+    ],
+    [
+     " anything",
+     0.0
+    ],
+    [
+     " this",
+     0.0
+    ],
+    [
+     " your",
+     0.0
+    ],
+    [
+     " the",
+     0.0
+    ]
+   ]
+  },
+  {
+   "token": " anything",
+   "top": [
+    [
+     " anything",
+     0.9442
+    ],
+    [
+     " something",
+     0.0521
+    ],
+    [
+     " another",
+     0.0027
+    ],
+    [
+     " any",
+     0.0006
+    ],
+    [
+     " a",
+     0.0003
+    ]
+   ]
+  }
+ ]
+}
