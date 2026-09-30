@@ -95,4 +95,4 @@ every measurement myself. If it's in this repo, I've read it, tested it and I st
 MIT - see [LICENSE](LICENSE).
 
 By Sam (Samuel Sojo) - [Jailbroken on YouTube](https://youtube.com/@jailbrokenai) -
-[LinkedIn](https://linkedin.com/in/samuel-sojo-b96626246) - [samuelsojo.com](https://samuelsojo.com)
+[LinkedIn](https://linkedin.com/in/samuel-sojo) - [samuelsojo.com](https://samuelsojo.com)
